@@ -17,8 +17,12 @@ model_weights.bin
 
 # ---- local-only documentation (deliberately NOT published) ----
 RESEARCH_AND_METHODS.md
+INTERVIEW_PREP.md
 
 # ---- logs / scratch ----
 *.log
 sample.txt
 corpus.txt
+
+# ---- interview / video prep (local only) ----
+demo/
